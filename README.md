@@ -73,3 +73,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ansh9728&show_icons=true&locale=en" alt="ansh9728" /></p>
 
 
+### Follow Me
+
+[![Linkedin Badge](https://img.shields.io/badge/-Anshu%20KumarSingh-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anshu-kumar-singh-3a6807179/)](https://www.linkedin.com/in/anshu-kumar-singh-3a6807179/) 
+[![GitHub Badge](https://img.shields.io/badge/-@Ansh9728-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/Ansh9728)](https://github.com/Ansh9728) 
+[![Gmail Badge](https://img.shields.io/badge/-@AnshKumar9728-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:anshukumar9728@gmail.com)](mailto:anshukumar9728@gmail.com)
