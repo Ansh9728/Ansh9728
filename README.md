@@ -2,9 +2,10 @@
   Hi 👋, I'm Anshu Kumar Singh
 </h1>
 
-<h3 align='center'>
+<h2 align='center'>
   Welcome to my GitHub repository!<br>
-  
+</h2>
+ <h3 align='center'>
   <br>
   I am Anshu Kumar Singh, an experienced and passionate AI/ML Engineer with a strong background in developing innovative solutions using machine learning , artificial intelligence and Deep Learning. All Github repository serves as a showcase of my projects, skills, and contributions to the field of Artificial Intelligence.
 
