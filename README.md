@@ -73,6 +73,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ansh9728&show_icons=true&locale=en" alt="ansh9728" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ansh9728&" alt="ansh9728" /></p>
+
 
 ### Follow Me
 
