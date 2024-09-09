@@ -14,7 +14,7 @@
 
 <img align="right" alt="Coder GIF" height=350 width=350 src="https://github.com/Ansh9728/Ansh9728/blob/main/github.jpeg" />
 
-<em> Want to know more about me? [Click here](https://drive.google.com/file/d/1Py9FZcrp9w70JOxGUfEQKR9AaVVsyFJ2/view?usp=sharing) </em>
+<em> Want to know more about me? [Click here](https://drive.google.com/file/d/1RZThOTc0xw-PVrlh-qdZAaBX2fqOJYKA/view?usp=drive_link) </em>
 <em>
 
 
